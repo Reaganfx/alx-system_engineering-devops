@@ -1,1 +1,1 @@
-clean emacs
+welcome to school
